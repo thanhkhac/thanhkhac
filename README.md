@@ -1,23 +1,20 @@
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thanhkhac&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thanhkhac&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhkhac&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=thanhkhac&icon=2&color=10)](https://visitcount.itsvg.in)
 
-
-
-![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![SQL](https://img.icons8.com/color/48/000000/sql.png)
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-
-
-<a>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thanhkhac&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866%22%20height=%22192px%22%20width=%2249.5%%22" alt="Your Name GitHub Contribution"/>
-</a>
-
-<a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhkhac&theme=radical" alt="Your Name GitHub Profile Summary"/>
-</a>
-
-
-<!-- ![Text alt](https://drive.usercontent.google.com/download?id=1SPE2LOpBUP-dtRXeztEGOOZujuZXSV8u) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
