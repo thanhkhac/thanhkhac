@@ -1,4 +1,4 @@
-### 👋
+
 <a>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhkhac&theme=radical" alt="Your Name GitHub Profile Summary"/>
 </a>
